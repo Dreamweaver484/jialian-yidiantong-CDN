@@ -4,7 +4,7 @@ git log -2
 git tag -ln
 
 git add .      					(取消暂存：git unstage 文件名)
-git commit -m "init"     (撤销commit ：git commit - -amend)
+git commit -m "ani"     (撤销commit ：git commit - -amend)
 git tag -a v0.1.2 -m "ani版本"
 git push origin v0.1.2
 
@@ -32,3 +32,4 @@ https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.2/static/e
 e-mail:904983113@qq.com
 密码：qhp15058142966
 
+git remote add origin https://github.com/Dreamweaver484/jialian-yidiantong-CDN.git
