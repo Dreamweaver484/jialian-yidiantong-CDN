@@ -3,22 +3,30 @@ git show
 git log -2
 git tag -ln
 
-git add .      			(取消暂存：git unstage 文件名)
+git add .      					(取消暂存：git unstage 文件名)
 git commit -m "init"     (撤销commit ：git commit - -amend)
-git tag -a v0.1.0 -m "初始化版本"
-git push origin v0.1.0
+git tag -a v0.1.2 -m "ani版本"
+git push origin v0.1.2
 
-使用：0.1.0是版本
+使用：现在0.1.2是版本
 
-https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.0/static/bg.jpg
+https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.2/static/emoji/xxx
+
+
 
 前缀：
 
-https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.0
+https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.2
+
+
 
 最新：
 
-https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.0/static/bg.jpg
+https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.2/static/emoji/normal/
+
+
+
+
 
 用户名：Dreamweaver484
 e-mail:904983113@qq.com
