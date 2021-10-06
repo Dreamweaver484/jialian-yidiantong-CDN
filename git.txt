@@ -5,8 +5,8 @@ git tag -ln
 
 git add .      					(取消暂存：git unstage 文件名)
 git commit -m "gif"     (撤销commit ：git commit - -amend)
-git tag -a v0.1.4 -m "audio版本"
-git push origin v0.1.4
+git tag -a v0.1.5 -m "gif版本"
+git push origin v0.1.5
 
 使用：现在0.1.4是版本
 
