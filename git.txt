@@ -4,32 +4,26 @@ git log -2
 git tag -ln
 
 git add .      					(取消暂存：git unstage 文件名)
-git commit -m "gif"     (撤销commit ：git commit - -amend)
-git tag -a v0.1.5 -m "gif版本"
-git push origin v0.1.5
+git commit -m "weather"     (撤销commit ：git commit - -amend)
+git tag -a v0.2.0 -m "新增天气图标"
+git push origin v0.2.0
 
-使用：现在0.1.4是版本
+使用：现在0.2.0是版本
 
-https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.5/static/emoji/xxx
-
+https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.2.0/static/subPackagesB/weather/xxx
 
 
 前缀：
 
-https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.5
+https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.2.0
 
 
 
 最新：
 
-https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.1.5/static/gif/big/big01.png
+https://cdn.jsdelivr.net/gh/Dreamweaver484/jialian-yidiantong-CDN@0.2.0/static/gif/big/big01.png
 
 
 
-
-
-用户名：Dreamweaver484
-e-mail:904983113@qq.com
-密码：qhp15058142966
 
 git remote add origin https://github.com/Dreamweaver484/jialian-yidiantong-CDN.git
